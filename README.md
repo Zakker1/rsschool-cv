@@ -1,2 +1,2 @@
-# rsschool-cv
-# https://zakker1.github.io/rsschool-cv/
+# rsschool-cvg
+https://zakker1.github.io/rsschool-cv/cv
